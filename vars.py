@@ -4,7 +4,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "23916386"))
 API_HASH = environ.get("API_HASH", "613666377f6a46bba98777abf5ce402e")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8249024505:AAHW-sQPzCw9nCCWeYHm4qSNQh4b5K7XGsQ")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8509027272:AAH4g7JcgXzjWAj_qOUf9e4jd5_66qMn5es")
 
 # Force Subscribe Configuration
 FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "neerajdrm)  # Channel username without @, 
@@ -18,6 +18,7 @@ OWNER_ID = int(environ.get("OWNER_ID", "1483382098"))
 
 # Database URL (if you want to add database support later)
 DATABASE_URL = environ.get("DATABASE_URL", "")
+
 
 
 
